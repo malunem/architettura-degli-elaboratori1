@@ -9,4 +9,5 @@ non viene messa in pausa con l’apposito Pin.
 Per ulteriori dettagli visualizzare la specifica.
 
 Voto ottenuto: 30 e lode
+
 Anno accademico 2020/2021
