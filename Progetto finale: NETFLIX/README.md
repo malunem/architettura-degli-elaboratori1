@@ -1,4 +1,3 @@
-Idea e obiettivo del progetto:
 Lo scopo del progetto è simulare, in modo semplificato, un sistema di raccomandazione di film e serie tv.
 È presente una lista di 10 titoli rappresentati ognuno da un bottone e da un Tunnel, tra i quali l’utente seleziona un titolo che ha
 già visto e apprezzato. Il titolo selezionato verrà visualizzato in un display TTY sotto il quale l’utente può cliccare Invio o Cancella
